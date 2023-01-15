@@ -3,7 +3,7 @@ a mod for Voron0/Tiny-M 3D printer/一个基于Voron0/Tiny-M的3D打印机mod
 
 RC2更新：
 
-·喷头替换为MiniFrontBurner
+·喷头替换为MiniFrontBurner，热端使用龙或E3d V6打孔攻丝
 
 ·X轴导轨替换为mgn9h
 
