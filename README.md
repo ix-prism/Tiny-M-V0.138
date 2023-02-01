@@ -16,3 +16,7 @@ RC2更新：
 ·主板替换为SKR Mini E3
 
 ![Alt text](https://github.com/ix-prism/ix_v0.138_Tiny-M_Voron0_Mod/blob/main/Picture/rc2.jpg)
+
+新版喷头来自Voron0.2
+
+![Alt text](https://github.com/ix-prism/ix_v0.138_Tiny-M_Voron0_Mod/blob/main/Picture/Mini%20Stealthburner-Sherpa1.jpg)
