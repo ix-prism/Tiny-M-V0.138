@@ -1,11 +1,11 @@
 ## Voron0.2样式封箱
 
-###黑色
+### 黑色
 
 Deck_Panel x1
 Back_Panel x1
 
-###透明
+### 透明
 门板 
 270x294mm x1
 
