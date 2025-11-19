@@ -1,17 +1,25 @@
 # Tiny-M + Voron0.2 Mod
 a mod for Voron0/Tiny-M 3D printer/一个基于Voron0/Tiny-M的3D打印机mod
 
-# 与Tiny-M的区别
+This project is based on Tiny-M by Guido (gsl12).
+Thanks for the great idea and all the work he put into it.
 
-* Voron 0.2风格化
+# 与 Tiny-M 的区别 / Differences from Tiny-M
 
-* MiniFrontBurner打印头，支持E3dV6或Bambu热端
+- Voron 0.2 风格化外观  
+  Stylized in the style of Voron 0.2
 
-* X轴导轨替换为mgn9h，安装在侧面
+- 使用 MiniFrontBurner 打印头，支持 E3D V6 或 Bambu 热端  
+  Uses the MiniFrontBurner toolhead, compatible with E3D V6 or Bambu hotends
 
-* 挤出机为Sherpa Mini
+- X 轴导轨更换为侧面安装的 MGN9H  
+  X-axis linear rail replaced with a side-mounted MGN9H
 
-* 屏幕替换为V0Display
+- 挤出机更换为 Sherpa Mini  
+  Extruder changed to Sherpa Mini
+
+- 屏幕更换为 V0Display  
+  Display replaced with V0Display
 
 ![Alt text](https://github.com/ix-prism/Tiny-M-V0.138/blob/main/Picture/%E6%B8%B2%E6%9F%93%E5%9B%BE1.jpg)
 
